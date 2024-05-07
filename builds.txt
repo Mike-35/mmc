@@ -10,4 +10,4 @@ fanart="https://www.dropbox.com/scl/fi/7rz9d9aglfq4fx3kupm2v/fanart.jpg?rlkey=ge
 preview="http://"
 adult="no"
 info="http://"
-description="MMC OMEGA K21, aktualisiert am 04.05.2024"
+description="MMC OMEGA K21, aktualisiert am 07.05.2024"
