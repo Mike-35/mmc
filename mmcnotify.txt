@@ -4,7 +4,8 @@
 
 
 
-Beachte das HowTo Video im Untermenü der System Kategorie 
+Tip : Ein HowTo Loginvideo für MMCTV findest du im Untermenü der System Kategorie des Builds
+(howto:Mmctv) 
 
 
 
