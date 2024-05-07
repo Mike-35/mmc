@@ -3,7 +3,7 @@
 [COLOR white]MMC BUILDS WIZARD INFO[/COLOR]
 
 
-Tip : Ein HowTo Loginvideo für MMCTV findest du im Untermenü der Systemkategorie des Build
+Tip : Ein HowTo Loginvideo für MMCTV findest du im Untermenü der Systemkategorie des Builds
 (howto:mmctv) 
 
 
