@@ -1,7 +1,7 @@
 1
 |||
-[COLOR white][B][I]MMC BUILDS WIZARD[/COLOR]
+[COLOR white]MMC BUILDS WIZARD[/COLOR]
 
-[COLOR white][B][I]I N F O[/COLOR]
+[COLOR white]I N F O[/COLOR]
 
 TEST..... 
