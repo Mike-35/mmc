@@ -1,7 +1,11 @@
 1
 |||
-[COLOR white]MMC BUILDS WIZARD[/COLOR]
+[COLOR white]MMC BUILDS WIZARD INFO[/COLOR]
 
-[COLOR white]I N F O[/COLOR]
 
-TEST..... 
+
+Beachte das HowTo Video im Untermenü der System Kategorie 
+
+
+
+Viel Spass bei MMC
