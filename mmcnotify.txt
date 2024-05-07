@@ -11,4 +11,4 @@ System/Benutzeroberfläche/Skin konfigurieren/Skripte/Startfenster
 
 
 
-Viel Spass bei MMC
+Viel Spass bei Mikes Mediacenter
