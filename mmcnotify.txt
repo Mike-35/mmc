@@ -3,11 +3,8 @@
 [COLOR white]MMC BUILDS WIZARD INFO[/COLOR]
 
 
-Tip: Ein HowTo Loginvideo für MMCTV findest du im Untermenü der Systemkategorie des Builds
+Tip: Ein HowTo Loginvideo für MMC TV findest du im Untermenü der Kategorie "SYSTEM"
 (howto:mmctv) 
-
-Tip: Intro ausschalten lässt sich unter 
-System/Benutzeroberfläche/Skin konfigurieren/Skripte/Startfenster
 
 
 
