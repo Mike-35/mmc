@@ -3,8 +3,7 @@
 [COLOR white]MMC BUILDS WIZARD INFO[/COLOR]
 
 
-Tip: Ein HowTo Loginvideo für MMC TV findest du im Untermenü der Kategorie "SYSTEM"
-(howto:mmctv) 
+Tip
 
 
 
